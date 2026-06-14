@@ -4,7 +4,7 @@ supported_targets:
 
 extensions:
   avocado-bsp-raspberrypi0-2w:
-    version: 2024.1.0
+    version: 0.1.0
     release: r0
     summary: Board support for the Raspberry Pi Zero 2 W
     description: Board support for the Raspberry Pi Zero 2 W
